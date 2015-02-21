@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Selection Game</string>
+    <string name="findAll">Find All</string>
+
+    <string-array name="items">
+        <item>Apple</item>
+        <item>Lemon</item>
+        <item>Mango</item>
+        <item>Peach</item>
+        <item>Strawberry</item>
+        <item>Tomato</item>
+    </string-array>
+
+    <string name="reset_btn">Reset</string>
+    <string name="exit_btn">Exit</string>
+    <string name="nothing"></string>
+    <string name="success_message">Congratulations!! You have found all the \u0020</string>
+    <string name="success_title">Found all shapes</string>
+    <string name="failure_title">Ooops</string>
+    <string name="failure_message">Sorry!! Try Again!!</string>
+    <string name="ok_text">OK</string>
+    <string name="new_game">New Game</string>
+
+</resources>
